@@ -28,5 +28,4 @@ if(message.content.split(' ')[0] == '*bc') {
         });
     }
 })
-client.login("NTA5MDA4Mzk1MTE5MDk5OTI1.DwYwrA._KP5gw-aHDMMDAuk55KarAKGxSE''
-");
+client.login("NTA5MDA4Mzk1MTE5MDk5OTI1.DwYwrA._KP5gw-aHDMMDAuk55KarAKGxSE")
